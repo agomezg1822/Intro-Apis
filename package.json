@@ -1,0 +1,14 @@
+{
+  "name": "intro-apis",
+  "version": "0.0.1",
+  "description": "consumir una api externa",
+  "main": "index.js",
+  "scripts": {
+    "test": "jets"
+  },
+  "author": "andres gomez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
